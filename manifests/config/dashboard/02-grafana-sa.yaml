@@ -2,4 +2,4 @@ apiVersion: v1
 kind: ServiceAccount
 metadata:
   name: grafana-serviceaccount
-  namespace: kepler
+  namespace: openshift-kepler-operator
